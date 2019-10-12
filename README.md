@@ -16,7 +16,8 @@ Slides: https://slides.com/garudaslap/mi-primer-smart-wallet-en-3-pasos
 
 ## Unit tests en Xamarin / Alexander Llanes
 
-Slides: 
+Slides: https://github.com/allanes87/EconoMe/blob/master/UnitTest%20in%20Xamarin.Forms.pdf
+Code: https://github.com/allanes87/EconoMe
 
 Más: https://www.meetup.com/XamarinUY/events/264566785/
 
